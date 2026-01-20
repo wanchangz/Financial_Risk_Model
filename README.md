@@ -10,7 +10,7 @@ This project serves as a comprehensive portfolio piece demonstrating a full data
 - Advanced Feature Engineering to create powerful predictive signals.
 - Modeling for Imbalanced Classification problems.
 - In-depth Model Evaluation and business-oriented interpretation of results.
-- 💡 Domain-Driven Feature Engineering Unlike standard approaches that rely blindly on raw financial ratios, this model incorporates proprietary feature engineering strategies derived from real-world industrial data analysis.
+- Domain-Driven Feature Engineering Unlike standard approaches that rely blindly on raw financial ratios, this model incorporates proprietary feature engineering strategies derived from real-world industrial data analysis.
 
 During my 4 years in industrial production management, I identified specific interaction terms (e.g., the dynamic relationship between inventory turnover and short-term debt) that serve as leading indicators for default risk. While the training data provided here is public/anonymized, the feature construction logic is based on validated industry insights, ensuring the model captures genuine business risks rather than just statistical noise.
 
